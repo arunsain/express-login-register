@@ -6,3 +6,5 @@ PORT=5000
 JWT_SECRET='sjfnkwjfkwefhwjf2e1ojn78qe98391287@$$$$$qwdgwdgqdqwjdgqgdgdwdjgvsvsv'
 JWT_EXPIRES=9000000000
 COOKIE_EXPIRES=1000000000
+
+// please change filr name to .env on the root of the project
